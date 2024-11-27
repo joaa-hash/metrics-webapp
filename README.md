@@ -38,12 +38,6 @@
 
 **Metrics web app** is a mobile web application that gets pollution data from [Air pollution API](https://openweathermap.org/api/air-pollution) on the first render and dislpay air quality value for 6 states within Mexico.
 
-##### Take a look at the next video:
-
-[![image](https://github.com/user-attachments/assets/fb629869-adeb-4f2e-bd90-5157c4ab336e)](https://drive.google.com/file/d/1lnhZyktsUM33fHkORHxIQkteRCxmrvwC/view?usp=sharing)
-
-
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -89,7 +83,7 @@
 
 > Do you want to see the project in action?
 
-- [Live Demo Link](https://diegogagan2587.github.io/metrics-webapp/)
+- [Live Demo Link](https://joaa-hash.github.io/metrics-webapp/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +113,7 @@ open your desired folder:
 ```
 proceed to clone the repository:
 ```sh
-  git clone git@github.com:Diegogagan2587/metrics-webapp.git
+  git clone git@github.com:joaa-hash/metrics-webapp.git
 ```
 
 
@@ -164,11 +158,9 @@ You can deploy this project using:
 
 > Do you want to know more about the author?
 
-👤 **Diego Vidal Lopez**
+👤 **Josue Acuna**
 
-- GitHub: [@Diegogagan2587](https://github.com/Diegogagan2587)
-- Twitter: [@dieg02587](https://twitter.com/dieg02587)
-- LinkedIn: [Diego Vidal Lopez](https://www.linkedin.com/in/diego-vidal-lopez)
+- GitHub: [@joaa-hash](https://github.com/joaa-hash)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,7 +181,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Diegogagan2587/metrics-webapp/issues).
+Feel free to check the [issues page](https://github.com/joaa-hash/metrics-webapp/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
