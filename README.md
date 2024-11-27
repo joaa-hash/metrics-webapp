@@ -90,7 +90,7 @@ https://www.youtube.com/watch?v=QkO_6bSDYl8
 
 > Do you want to see the project in action?
 
-- [Live Demo Link](https://diegogagan2587.github.io/metrics-webapp/)
+- [Live Demo Link](https://joaa-hash.github.io/metrics-webapp/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,7 +120,7 @@ open your desired folder:
 ```
 proceed to clone the repository:
 ```sh
-  git clone git@github.com:Diegogagan2587/metrics-webapp.git
+  git clone git@github.com:joaa-hash/metrics-webapp.git
 ```
 
 
@@ -165,11 +165,9 @@ You can deploy this project using:
 
 > Do you want to know more about the author?
 
-👤 **Diego Vidal Lopez**
+👤 **Josue Acuna**
 
-- GitHub: [@Diegogagan2587](https://github.com/Diegogagan2587)
-- Twitter: [@dieg02587](https://twitter.com/dieg02587)
-- LinkedIn: [Diego Vidal Lopez](https://www.linkedin.com/in/diego-vidal-lopez)
+- GitHub: [@joaa-hash](https://github.com/joaa-hash)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -190,7 +188,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Diegogagan2587/metrics-webapp/issues).
+Feel free to check the [issues page](https://github.com/joaa-hash/metrics-webapp/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
