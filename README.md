@@ -38,13 +38,6 @@
 
 **Metrics webapp** is a mobile web application that gets pollution data from [Air pollution API](https://openweathermap.org/api/air-pollution) on the first render and dislpay air quality value for 6 states within Mexico.
 
-take a look on the next video:
-
-https://www.youtube.com/watch?v=QkO_6bSDYl8
-
-[![metrics-webapp](https://img.youtube.com/vi/QkO_6bSDYl8/0.jpg)](https://www.youtube.com/watch?v=QkO_6bSDYl8)
-
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
